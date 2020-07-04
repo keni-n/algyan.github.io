@@ -1,9 +1,13 @@
-<style>
+<html>
+  <style>
+  footer {
+    display: none;
+  }
   .btn {
     display: none;
   }
 </style>
-
+</html>
 
 ---
 layout: default
