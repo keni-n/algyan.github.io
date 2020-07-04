@@ -1,3 +1,10 @@
+<style>
+  .btn {
+    display: none;
+  }
+</style>
+
+
 ---
 layout: default
 title: IoT ALGYAN 公式Webサイト
