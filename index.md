@@ -1,13 +1,14 @@
-<html>
-  <style>
-  footer {
-    display: none;
-  }
+---	  <style>
+layout: default	  footer {
+title: IoT ALGYAN 公式Webサイト	    display: none;
+description: IoTあるじゃん	  }
+---
+
+<style>
   .btn {
     display: none;
   }
 </style>
-</html>
 
 ## IoT ALGYAN 公式Webサイト
 
