@@ -1,4 +1,4 @@
----	  <style>
+---
 layout: default	  footer {
 title: IoT ALGYAN 公式Webサイト	    display: none;
 description: IoTあるじゃん	  }
